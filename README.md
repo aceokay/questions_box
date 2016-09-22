@@ -1,8 +1,13 @@
 # QuestionsBox
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/questions_box`. To experiment with that code, run `bin/console` for an interactive prompt.
+A toolkit for surveyors to build multi-faceted surveys. The toolset (eventually) includes all question types conceivable, with openness to add new ones on request, while also allowing complex branching and conditional presentation.
 
-TODO: Delete this and the text above, and describe your gem
+This toolkit is meant to be plugged into a user defined User/Surveytaker class.
+
+_Goals for future updates_
+* _Implement the first question type and handling_
+* _Figure out how to create migrations for the users of this gem to use in implementing the question models_
+* _Eventually, allow admins to create qualifying recipes for simpler tracking of qualified Users/Surveytakers_
 
 ## Installation
 
@@ -22,7 +27,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TODO: Make something you can use!
 
 ## Development
 
@@ -38,4 +43,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
